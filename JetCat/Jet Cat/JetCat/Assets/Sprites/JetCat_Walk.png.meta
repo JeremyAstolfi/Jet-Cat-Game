@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 3e0f4cfeefd6eb342a6a9812c0613355
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JetCat_Walk_7
+    21300002: JetCat_Walk_9
+    21300004: JetCat_Walk_14
+    21300006: JetCat_Walk_18
+    21300008: JetCat_Walk_28
+    21300010: JetCat_Walk_32
+    21300012: JetCat_Walk_38
+    21300014: JetCat_Walk_40
+    21300016: JetCat_Walk_47
+    21300018: JetCat_Walk_54
+    21300020: JetCat_Walk_56
+    21300022: JetCat_Walk_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: WP8
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: JetCat_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 603
+        width: 729
+        height: 434
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 599
+        width: 732
+        height: 427
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 604
+        width: 789
+        height: 407
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 635
+        width: 843
+        height: 378
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 629
+        width: 745
+        height: 407
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 635
+        width: 747
+        height: 407
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 75
+        width: 732
+        height: 410
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 55
+        width: 817
+        height: 392
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 47
+        width: 845
+        height: 383
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 18
+        width: 777
+        height: 422
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 75
+        width: 752
+        height: 419
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JetCat_Walk_66
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 72
+        width: 750
+        height: 409
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

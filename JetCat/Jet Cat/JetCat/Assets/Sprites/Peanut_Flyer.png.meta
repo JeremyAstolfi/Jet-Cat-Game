@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 1fc68d704c650df4384c8b90f6e7d346
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Peanut_Flyer_0
+    21300002: Peanut_Flyer_1
+    21300004: Peanut_Flyer_2
+    21300006: Peanut_Flyer_3
+    21300008: Peanut_Flyer_4
+    21300010: Peanut_Flyer_5
+    21300012: Peanut_Flyer_6
+    21300014: Peanut_Flyer_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Peanut_Flyer_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 538
+        width: 413
+        height: 427
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 541
+        width: 292
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_2
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 526
+        width: 248
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_3
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 523
+        width: 207
+        height: 418
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_4
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 518
+        width: 240
+        height: 420
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 54
+        width: 206
+        height: 423
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 54
+        width: 249
+        height: 422
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Peanut_Flyer_7
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 37
+        width: 292
+        height: 422
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
